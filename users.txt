@@ -1,0 +1,4 @@
+RegNo,Name,Gender,Group,Marks
+101,Alan,M,Java,75
+102,Bill,M,Big Data,150
+103,Chloe,F,DevOps,65
