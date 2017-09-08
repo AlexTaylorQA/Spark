@@ -1,4 +1,7 @@
-RegNo,Name,Gender,Group,Marks
+100,Zane,M,Java,88
 101,Alan,M,Java,75
-102,Bill,M,Big Data,150
+102,Bill,M,Big Data,100
 103,Chloe,F,DevOps,65
+104,David,M,Management,19
+105,Ellen,F,Management,362
+106,Fergus,F,Boss,117

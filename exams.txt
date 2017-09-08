@@ -1,0 +1,11 @@
+RegNo,Subject,Marks
+1,Physics,40
+1,Chemistry,40
+1,Maths,40
+2,Physics,40
+2,Chemistry,30
+2,Maths,90
+3,Physics,56
+3,Chemistry,78
+3,Maths,93
+4,Physics,12
